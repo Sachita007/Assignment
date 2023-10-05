@@ -30,7 +30,7 @@ npm install
 ```
 3. Start the server:
 ```bash
-node app.js
+node server.js
 ```
 
 ## API Endpoints
