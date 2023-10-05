@@ -25,13 +25,13 @@ This API allows clients to fetch blog analytics and perform blog searches, offer
 
 1. Clone the repository.
 2. Install the dependencies:
-\```bash
+```bash
 npm install
-\```
+```
 3. Start the server:
-\```bash
+```bash
 node app.js
-\```
+```
 
 ## API Endpoints
 
