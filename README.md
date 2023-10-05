@@ -1,4 +1,4 @@
-# Blog Analytics API with Expiring Cache
+# Blog Analytics API 
 
 This API allows clients to fetch blog analytics and perform blog searches, offering efficient results retrieval through a caching mechanism.
 
